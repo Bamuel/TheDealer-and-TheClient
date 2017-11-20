@@ -1,0 +1,6 @@
+C:\Users\Samuel\Desktop\Diploma Software Development\C# Development\TheAssessmentSamuelL\Task4\Dealer\bin\Debug\Dealer.exe.config
+C:\Users\Samuel\Desktop\Diploma Software Development\C# Development\TheAssessmentSamuelL\Task4\Dealer\bin\Debug\Dealer.exe
+C:\Users\Samuel\Desktop\Diploma Software Development\C# Development\TheAssessmentSamuelL\Task4\Dealer\bin\Debug\Dealer.pdb
+C:\Users\Samuel\Desktop\Diploma Software Development\C# Development\TheAssessmentSamuelL\Task4\Dealer\obj\Debug\Dealer.csprojResolveAssemblyReference.cache
+C:\Users\Samuel\Desktop\Diploma Software Development\C# Development\TheAssessmentSamuelL\Task4\Dealer\obj\Debug\Dealer.exe
+C:\Users\Samuel\Desktop\Diploma Software Development\C# Development\TheAssessmentSamuelL\Task4\Dealer\obj\Debug\Dealer.pdb
